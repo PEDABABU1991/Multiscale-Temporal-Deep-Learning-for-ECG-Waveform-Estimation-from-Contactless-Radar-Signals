@@ -1,0 +1,1 @@
+This repository contains the Excel file reporting signal-level ECG reconstruction results for five repeated subject-independent randomized splits. The reported metrics include MAE, RMSE, Pearson r, PRD, and SNR.
